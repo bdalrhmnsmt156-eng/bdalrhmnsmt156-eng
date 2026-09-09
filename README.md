@@ -1,22 +1,11 @@
-<!-- Header Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=250&section=header&text=Abed%20Osamt%20Mohammed&fontSize=60&fontAlignY=35&animation=fadeIn&desc=Backend%20Developer%20%7C%20Java%20%26%20Python%20Enthusiast&descAlignY=55&descSize=20" width="100%"/>
-
-<!-- Views Badge -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=bdalrhmnsmt156-eng&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
-</p>
-
-<!-- Typing Effect -->
-<p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2F80ED&center=true&vCenter=true&width=435&lines=Software+Developer;Java+%26+Python+Enthusiast;Problem+Solver" alt="Typing SVG" /></a>
-</p>
-
-<!-- Socials -->
-<p align="center">
-  <a href="mailto:bdalrhmnsmt156@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <!-- لو عندك لينكدان شيل علامة المربع وحط اللينك بتاعك -->
-  <a href="#"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-</p>
+<div align="center">
+  <h1 style="font-weight: bold;">Hi there, I'm Abed Osamt Mohammed! 👋</h1>
+  <p>
+    <img src="https://komarev.com/ghpvc/?username=bdalrhmnsmt156-eng&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+    <a href="mailto:bdalrhmnsmt156@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email" /></a>
+    <a href="#"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  </p>
+</div>
 
 ---
 
@@ -50,7 +39,7 @@
   <a href="https://github.com/bdalrhmnsmt156-eng/Company-Management-System-Java">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=bdalrhmnsmt156-eng&repo=Company-Management-System-Java&theme=radical&hide_border=true" alt="Company Management" />
   </a>
-  <a href="https://github.com/bdalrhmnsmt156-eng/HotelManagementSystem">
+  <a href="url?id=41">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=bdalrhmnsmt156-eng&repo=HotelManagementSystem&theme=radical&hide_border=true" alt="Hotel Management System" />
   </a>
 </p>
