@@ -1,58 +1,42 @@
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=2F80ED&center=true&vCenter=true&width=600&lines=Hi,+I'm+Abed+Osamt;Backend+Software+Engineer;Java+%7C+Python+%7C+System+Architecture" alt="Typing SVG" />
-</div>
+# 👋 Hi there, I'm Abd Elrahman Osmat!
+### 👨‍💻 Junior QA & Manual Software Tester | Backend Developer | CS Student
 
-<div align="center">
-  <a href="mailto:bdalrhmnsmt156@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://linkedin.com"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <img src="https://komarev.com/ghpvc/?username=bdalrhmnsmt156-eng&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views" />
-</div>
+A passionate Computer Science student at the Egyptian E-Learning University (EELU) and a dedicated trainee in the **Digital Egypt Pioneers Initiative (DEPI)** within the Software Testing track. I specialize in bridging the gap between robust backend architectures and flawless software quality.
 
----
+## 🚀 About Me
+- 🎓 **Education:** Pursuing a Bachelor's in Computer Science at EELU (Expected 2029).
+- 🔭 **Currently:** Enrolled in the DEPI Software Tester Engineer track, mastering STLC, manual testing, and test case design[cite: 1].
+- 💻 **Tech Background:** Strong foundation in backend development (Java, Python) and relational databases (SQL, SQLite)[cite: 1].
+- 🛡️ **Certifications:** Junior Cybersecurity Analyst (Cisco), Python Basics (Huawei), and Network Security[cite: 1].
+- 📫 **Contact:** [bdalrhmnsmt156@gmail.com](mailto:bdalrhmnsmt156@gmail.com) | [LinkedIn](https://linkedin.com/in/abd-elrahman-osmat)[cite: 1]
 
-### 👨‍💻 Engineering Profile
-- ⚡ **Backend Architect**: Focused on building scalable, robust, and secure server-side applications.
-- 🧠 **Core Expertise**: Advanced object-oriented programming (OOP) and data structures.
-- 🏗️ **Current Focus**: Developing enterprise-level management systems.
-- 💡 **Philosophy**: Writing clean, maintainable code and optimizing system performance.
+## 🛠️ Technical Arsenal
 
----
+### 🔍 Quality Assurance & Testing
+- **Methodologies:** STLC, Manual Testing, Functional Testing, Requirement Analysis, Defect Tracking[cite: 1]
+- **Tools:** Jira, Postman, Selenium[cite: 1]
 
-### 🛠️ Technical Arsenal
+### 💻 Programming & Backend
+- **Languages:** Java (OOP, Collections, JDBC), Python (pandas, Matplotlib)[cite: 1]
+- **Web Technologies:** HTML5, CSS3, JavaScript[cite: 1]
+- **Databases:** SQL, SQLite, Relational Database Design (Primary/Foreign Keys, JOINs)[cite: 1]
 
-**Core Languages:**
-<p>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+### ⚙️ Tools & Architecture
+- Git, GitHub, Maven, CLI[cite: 1]
+- Cybersecurity & Endpoint Security Fundamentals[cite: 1]
+
+## 📂 Featured Projects
+
+| Project Name | Description | Tech Stack |
+|--------------|-------------|------------|
+| **Student Performance & Analytics** | End-to-end app to track and analyze student data with a Java CLI and visual reports[cite: 1]. | Java, Python, SQLite, JDBC, pandas, Matplotlib[cite: 1] |
+| **Hotel Management System** | Object-oriented solution for room availability, date-based searches, and reservations[cite: 1]. | Java, OOP, Java Time API[cite: 1] |
+| **Flight / Hotel Booking System** | Booking system using UUID identifiers, roles, seat management, and workflows[cite: 1]. | Python, OOP, UUID, Type Hints[cite: 1] |
+| **Company Management System** | Scalable OOP system managing enterprise workflows, departments, and employee data[cite: 1]. | Java, Encapsulation, Composition[cite: 1] |
+| **Shell Simulation Application** | Command-line shell simulation project[cite: 1]. | Java, CLI, Maven[cite: 1] |
+
+## 📈 Connect with Me
+<p align="left">
+  <a href="https://linkedin.com/in/abd-elrahman-osmat" target="_blank">LinkedIn</a> •
+  <a href="https://github.com/bdalrhmnsmt156-eng" target="_blank">GitHub</a>
 </p>
-
-**Web & Version Control:**
-<p>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-</p>
-
----
-
-### 🚀 Featured Architectures
-
-| Project | Description | Tech Stack |
-| :--- | :--- | :--- |
-| ☕ **[Company-Management-System](https://github.com/bdalrhmnsmt156-eng/Company-Management-System-Java)** | Scalable OOP system managing enterprise workflows, departments, and employee data. | `Java` |
-| 🏨 **[Hotel-Management-System](https://github.com/bdalrhmnsmt156-eng/HotelManagementSystem)** | Full-fledged solution for booking administration and hotel operations. | `Java` |
-
----
-
-### 📊 Code Activity & Analytics
-
-<div align="center">
-  <!-- Activity Graph -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=bdalrhmnsmt156-eng&bg_color=transparent&color=2F80ED&line=2F80ED&point=FFFFFF&hide_border=true" width="100%" alt="Activity Graph" />
-</div>
-
-<div align="center">
-  <!-- Stats & Languages (Transparent Theme for seamless integration) -->
-  <img src="https://github-readme-stats.vercel.app/api?username=bdalrhmnsmt156-eng&show_icons=true&theme=transparent&hide_border=true&title_color=2F80ED&icon_color=2F80ED" height="150" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bdalrhmnsmt156-eng&layout=compact&theme=transparent&hide_border=true&title_color=2F80ED" height="150" alt="Top Languages" />
-</div>
